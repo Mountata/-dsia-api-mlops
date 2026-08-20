@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "id": 1, "nom": "Ordinateur portable Pro 14", "categorie": "Informatique", "prix": 1299.99, "stock": 12 },
+    { "id": 2, "nom": "Souris sans fil ErgoMouse", "categorie": "Accessoires", "prix": 24.99, "stock": 87 },
+    { "id": 3, "nom": "Clavier mécanique RGB", "categorie": "Accessoires", "prix": 79.90, "stock": 45 },
+    { "id": 4, "nom": "Écran 27 pouces 4K", "categorie": "Informatique", "prix": 349.00, "stock": 20 },
+    { "id": 5, "nom": "Casque audio sans fil", "categorie": "Audio", "prix": 129.50, "stock": 34 },
+    { "id": 6, "nom": "Enceinte Bluetooth portable", "categorie": "Audio", "prix": 59.99, "stock": 60 },
+    { "id": 7, "nom": "Disque SSD externe 1To", "categorie": "Stockage", "prix": 89.99, "stock": 25 },
+    { "id": 8, "nom": "Webcam Full HD", "categorie": "Accessoires", "prix": 45.00, "stock": 40 },
+    { "id": 9, "nom": "Chargeur rapide USB-C 65W", "categorie": "Accessoires", "prix": 29.99, "stock": 100 },
+    { "id": 10, "nom": "Tablette graphique", "categorie": "Informatique", "prix": 219.00, "stock": 15 },
+    { "id": 11, "nom": "Imprimante multifonction", "categorie": "Bureautique", "prix": 149.99, "stock": 18 },
+    { "id": 12, "nom": "Routeur Wi-Fi 6", "categorie": "Réseau", "prix": 99.90, "stock": 30 }
+  ]
+}
